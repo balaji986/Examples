@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-10T07:52:01 IST" name="Default suite" finished-at="2024-05-10T07:52:05 IST" duration-ms="3372">
+    <groups>
+    </groups>
+    <test started-at="2024-05-10T07:52:01 IST" name="Default test" finished-at="2024-05-10T07:52:05 IST" duration-ms="3372">
+      <class name="tests.GetAndPostExamples">
+        <test-method signature="testGet()[pri:0, instance:tests.GetAndPostExamples@306e95ec]" started-at="2024-05-10T07:52:01 IST" name="testGet" finished-at="2024-05-10T07:52:05 IST" duration-ms="3307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGet -->
+        <test-method signature="testPost()[pri:0, instance:tests.GetAndPostExamples@306e95ec]" started-at="2024-05-10T07:52:05 IST" name="testPost" finished-at="2024-05-10T07:52:05 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPost -->
+      </class> <!-- tests.GetAndPostExamples -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
